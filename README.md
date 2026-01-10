@@ -1,9 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=Nunna%20Dhruvith&animation=fadeIn&fontAlignY=38&desc=Web%20Dev%20%7C%20Algorithms%20%7C%20NIT%20Andhra%20Pradesh&descAlignY=55&descSize=20" />
-</div>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do.&author=Steve%20Jobs" alt="Dev Quote" />
+  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=egg&height=250&section=header&text=Nunna%20Dhruvith&fontSize=80&fontColor=FFFFFF&animation=fadeIn&desc=Web%20Dev%20%7C%20Algorithms%20%7C%20NIT%20Andhra%20Pradesh&descSize=20&descAlignY=60&color=gradient" />
 </div>
 
 <div align="center">
@@ -14,77 +10,73 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/nunnadhruvith" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-B347FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" />
   </a>
   <a href="https://github.com/krishty21" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-white?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" />
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="github logo" />
+  </a>
+  <a href="https://instagram.com/aizen_1111" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo" />
   </a>
 </div>
 
----
+<br>
 
 ### 👨‍💻 **About Me**
 
 Pursuing a **Bachelor of Technology in Computer Science Engineering** at the **National Institute of Technology, Andhra Pradesh**, I have embraced a challenging curriculum designed to develop both technical expertise and practical problem-solving skills. Engaging in workshops and hands-on activities has enriched my understanding of key concepts, particularly in areas such as **collaborative problem solving** and **CSS**.
 
-At the National Institute of Technology, Andhra Pradesh, I collaborate with peers and faculty to tackle complex technological challenges, fostering innovation and teamwork. My academic journey reflects a commitment to building a strong foundation in computer science, with an enthusiasm for learning and contributing to meaningful tech-driven solutions in diverse environments.
-
-* 💼 **Internship:** I am currently working as an intern in **SmartEd** as an **Advanced Website Developer**.
-* 🔭 **Current Projects:** I am working on 2 personal projects: **Time Table designing** and a **Virtual Time Capsule**.
-* 🌱 **Learning:** I need help with my deeper practice and knowledge on **AI models** to build as I learn more about it in the near future.
-* 💬 **Ask Me About:** My advancements and learning from the journey of my B.Tech.
+* 💼 **Internship:** Currently working as an **Advanced Website Developer Intern** at **SmartEd**.
+* 🔭 **Current Projects:** Working on a **Virtual Time Capsule** and a **Dynamic Timetable** system.
+* 🌱 **Learning:** Deepening knowledge in **AI Models** and architecture.
 * ♟️ **Fun Fact:** I love **Chess** and am a big fan of entertaining web series.
 
 ---
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img height="195px" src="https://github-readme-stats.vercel.app/api?username=krishty21&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&title_color=B347FF&icon_color=B347FF&text_color=c9d1d9&bg_color=0d1117&ring_color=B347FF&custom_title=Dhruvith's%20GitHub%20Stats" alt="Dhruvith's Github Stats" />
-      </td>
-      <td align="center">
-        <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishty21&layout=compact&hide_border=true&title_color=B347FF&text_color=c9d1d9&bg_color=0d1117&langs_count=6&custom_title=Most%20Used%20Languages" alt="Most Used Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
+### 🛠️ **Tech Stack**
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishty21&theme=neon-dark&hide_border=true&stroke=0000&background=0D1117&ring=B347FF&fire=B347FF&currStreakLabel=B347FF&sideNums=B347FF&currStreakNum=FFFFFF&sideLabels=c9d1d9&dates=c9d1d9&excludeDaysLabel=c9d1d9" alt="Streak Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishty21&custom_title=Dhruvith's%20Contribution%20Graph&bg_color=0D1117&color=B347FF&line=B347FF&point=FFFFFF&area_color=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="50" alt="opencv logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo" />
 </div>
 
 ---
 
-### 🛠️ Technology Stack
+### 📊 **GitHub Analytics**
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishty21&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph" />
+</div>
+
+<br>
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="33%">
-        <h3>💻 Programming</h3>
-        <img src="https://skillicons.dev/icons?i=java,c,python,js&theme=dark" alt="Programming Languages" />
-        <br><br>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
-        <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C"/>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=krishty21&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" height="180" alt="stats graph" />
       </td>
-      <td align="center" width="33%">
-        <h3>🌐 Web Development</h3>
-        <img src="https://skillicons.dev/icons?i=html,css,javascript,react&theme=dark" alt="Web Technologies" />
-        <br><br>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
-      </td>
-      <td align="center" width="33%">
-        <h3>🔧 Tools & AI</h3>
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Tools" />
-        <br><br>
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV"/>
-        <img src="https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white" alt="Git"/>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishty21&layout=compact&hide_border=true&theme=dracula&langs_count=6" height="180" alt="languages graph" />
       </td>
     </tr>
   </table>
@@ -92,53 +84,53 @@ At the National Institute of Technology, Andhra Pradesh, I collaborate with peer
 
 ---
 
-### 🎨 Featured Projects
+### 🎨 **Featured Projects**
 
 <div align="center">
-
 <table>
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/krishty21/Virtual-Time-Capsule">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishty21&repo=Virtual-Time-Capsule&theme=dark&title_color=B347FF&text_color=ffffff&bg_color=0d1117&border_color=B347FF" alt="Virtual Time Capsule" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishty21&repo=Virtual-Time-Capsule&theme=dracula&hide_border=true" alt="Virtual Time Capsule" width="100%"/>
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/krishty21/NIT-AP-Timetable">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishty21&repo=NIT-AP-Timetable&theme=dark&title_color=B347FF&text_color=ffffff&bg_color=0d1117&border_color=B347FF" alt="NIT AP Timetable" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishty21&repo=NIT-AP-Timetable&theme=dracula&hide_border=true" alt="NIT AP Timetable" width="100%"/>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/krishty21/Spark-Squad">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishty21&repo=Spark-Squad&theme=dark&title_color=B347FF&text_color=ffffff&bg_color=0d1117&border_color=B347FF" alt="Spark Squad" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishty21&repo=Spark-Squad&theme=dracula&hide_border=true" alt="Spark Squad" width="100%"/>
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/krishty21/Face-Recognition-Java">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishty21&repo=Face-Recognition-Java&theme=dark&title_color=B347FF&text_color=ffffff&bg_color=0d1117&border_color=B347FF" alt="Face Recognition" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishty21&repo=Face-Recognition-Java&theme=dracula&hide_border=true" alt="Face Recognition" width="100%"/>
       </a>
     </td>
   </tr>
 </table>
-
 </div>
 
 ---
 
-### 🏆 GitHub Trophies
+### 👾 **Contribution Game**
 
 <div align="center">
-  <a href="https://github.com/krishty21">
-    <img src="https://github-profile-trophy.vercel.app/?username=krishty21&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krishty21/krishty21/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krishty21/krishty21/output/pacman-contribution-graph.svg">
+    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/krishty21/krishty21/output/pacman-contribution-graph.svg">
+  </picture>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=krishty21&label=Profile%20Views&color=B347FF&style=for-the-badge" alt="Profile Views" />
-</div>
+<br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=75"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=krishty21.krishty21&left_color=black&right_color=purple" alt="visitor badge"/>
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
