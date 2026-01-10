@@ -1,29 +1,41 @@
 name: Generate Pacman Graph
 
 on:
+  # Run automatically every 24 hours
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *" 
+  
+  # Allows to manually run the job at any time
   workflow_dispatch:
+  
+  # Run on every push on the main branch
   push:
     branches:
     - main
 
 jobs:
   generate:
-    permissions:
-      contents: write
+    permissions: write-all
     runs-on: ubuntu-latest
     timeout-minutes: 5
-
+    
     steps:
-      - name: generate-snake-game-from-github-contribution-grid
+      # Step 1: Checkout the repository code
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      # Step 2: Generate the Snake Game image
+      - name: Generate Snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/pacman-contribution-graph.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: push github-contribution-grid-snake.svg to the output branch
+      # Step 3: Push the image to the 'output' branch
+      - name: Push to Output Branch
         uses: crazy-max/gh-action-github-pages@v3.1.0
         with:
           target_branch: output
