@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=800&color=B347FF&center=true&vCenter=true&width=520&lines=I+build+encrypted+payment+rails;I+ship+3D+web+experiences+with+Three.js;I+turn+camera+frames+into+ASCII+matrices;I+route+through+safety%2C+not+distance;I+train+faces+to+recognize+themselves;CSE+Undergrad+%40+NIT+Andhra+Pradesh" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=800&color=B347FF&center=true&vCenter=true&width=480&lines=CSE+Undergrad+%40+NIT+Andhra+Pradesh;Learning+%E2%80%A2+Building+%E2%80%A2+Innovating;Open+to+Internships+%26+Full-Time;Always+shipping+something+new" alt="Typing SVG" />
   </a>
 </div>
 
@@ -22,10 +22,6 @@
 </div>
 
 <br>
-
-<div align="center">
-  <sub>Arch Linux · Hyprland · terminal-driven workflows · ships fast, ships clean</sub>
-</div>
 
 ---
 
@@ -136,78 +132,34 @@ Day to day, I work in **C, C++, Python and JavaScript** across the full stack �
 
 ### 🎨 **Featured Projects**
 
-<details>
-<summary><b>🌐 Web Apps & Interactive Platforms</b></summary>
-<br>
+<div align="center">
 <table>
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/krishty21/PersonalPortifolio">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishty21&repo=PersonalPortifolio&theme=dracula&hide_border=true&title_color=B347FF&icon_color=8B5CF6" alt="Personal Portfolio" width="100%" />
       </a>
-      <sub>React · Three.js · Tailwind · Web Audio · Vite — Hyprland-shell-inspired 3D dev portfolio</sub>
+      <sub>🚀 React · Three.js · Tailwind · Vite — Hyprland-shell-inspired 3D dev portfolio with interactive canvas & customizable themes</sub>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/krishty21/Virtual-Time-Capsule">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishty21&repo=Virtual-Time-Capsule&theme=dracula&hide_border=true&title_color=B347FF&icon_color=8B5CF6" alt="Virtual Time Capsule" width="100%" />
+      <a href="https://github.com/krishty21/VoidPay">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishty21&repo=VoidPay&theme=dracula&hide_border=true&title_color=B347FF&icon_color=8B5CF6" alt="VoidPay" width="100%" />
       </a>
-      <sub>Time-locked digital capsule platform for scheduled memory delivery</sub>
+      <sub>🔐 Node · Express · PostgreSQL · JWT · AES/RSA — encrypted payment rail with atomic ledger logging & role-based access</sub>
     </td>
   </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/krishty21/NIT-AP-Timetable">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishty21&repo=NIT-AP-Timetable&theme=dracula&hide_border=true&title_color=B347FF&icon_color=8B5CF6" alt="NIT AP Timetable" width="100%" />
-      </a>
-      <sub>Dynamic timetable system — auto-generated schedules for NIT AP</sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/krishty21/Spark-Squad">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishty21&repo=Spark-Squad&theme=dracula&hide_border=true&title_color=B347FF&icon_color=8B5CF6" alt="Spark Squad" width="100%" />
-      </a>
-      <sub>Collaborative team formation & hackathon squad-matching platform</sub>
-    </td>
-  </tr>
-</table>
-</details>
-
-<details>
-<summary><b>🤖 AI · Computer Vision · Geospatial Systems</b></summary>
-<br>
-<table>
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/krishty21/SafeRouteProject">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishty21&repo=SafeRouteProject&theme=dracula&hide_border=true&title_color=B347FF&icon_color=8B5CF6" alt="SafeRoute" width="100%" />
       </a>
-      <sub>Python · FastAPI · React · Mapbox GL — route safety engine scoring by lighting + historical data, not raw distance</sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/krishty21/Face-Recognition-Java">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishty21&repo=Face-Recognition-Java&theme=dracula&hide_border=true&title_color=B347FF&icon_color=8B5CF6" alt="Face Recognition" width="100%" />
-      </a>
-      <sub>Java · OpenCV — biometric detection & attendance tracking pipeline</sub>
-    </td>
-  </tr>
-</table>
-</details>
-
-<details>
-<summary><b>🔐 Security · Fintech · Games</b></summary>
-<br>
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/krishty21/VoidPay">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishty21&repo=VoidPay&theme=dracula&hide_border=true&title_color=B347FF&icon_color=8B5CF6" alt="VoidPay" width="100%" />
-      </a>
-      <sub>Node · Express · PostgreSQL · JWT · AES/RSA — encrypted payment rail with atomic ledger logging & RBAC</sub>
+      <sub>🗺️ Python · FastAPI · React · Mapbox GL — intelligent navigation scoring routes by safety, lighting & historical risk data</sub>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/krishty21/SecureChat-Project">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishty21&repo=SecureChat-Project&theme=dracula&hide_border=true&title_color=B347FF&icon_color=8B5CF6" alt="SecureChat" width="100%" />
       </a>
-      <sub>End-to-end encrypted chat with cryptographic key exchange protocols</sub>
+      <sub>💬 End-to-end encrypted real-time chat with cryptographic key exchange & secure WebSocket tunnels</sub>
     </td>
   </tr>
   <tr>
@@ -215,17 +167,45 @@ Day to day, I work in **C, C++, Python and JavaScript** across the full stack �
       <a href="https://github.com/krishty21/MinesGame">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishty21&repo=MinesGame&theme=dracula&hide_border=true&title_color=B347FF&icon_color=8B5CF6" alt="Mines Game" width="100%" />
       </a>
-      <sub>Browser-based Minesweeper-style game with custom engine logic</sub>
+      <sub>🎮 Browser-based Minesweeper-style game with custom engine logic & responsive UI</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/krishty21/Virtual-Time-Capsule">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishty21&repo=Virtual-Time-Capsule&theme=dracula&hide_border=true&title_color=B347FF&icon_color=8B5CF6" alt="Virtual Time Capsule" width="100%" />
+      </a>
+      <sub>⏳ Time-locked digital capsule platform for scheduled memory & message delivery</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/krishty21/NIT-AP-Timetable">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishty21&repo=NIT-AP-Timetable&theme=dracula&hide_border=true&title_color=B347FF&icon_color=8B5CF6" alt="NIT AP Timetable" width="100%" />
+      </a>
+      <sub>📅 Dynamic timetable system with auto-generated schedules for NIT AP</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/krishty21/Face-Recognition-Java">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishty21&repo=Face-Recognition-Java&theme=dracula&hide_border=true&title_color=B347FF&icon_color=8B5CF6" alt="Face Recognition" width="100%" />
+      </a>
+      <sub>👁️ Java · OpenCV — biometric face detection & automated attendance tracking pipeline</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/krishty21/Spark-Squad">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishty21&repo=Spark-Squad&theme=dracula&hide_border=true&title_color=B347FF&icon_color=8B5CF6" alt="Spark Squad" width="100%" />
+      </a>
+      <sub>⚡ Collaborative team formation & hackathon squad-matching platform</sub>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/krishty21">
-        <img src="https://img.shields.io/badge/⭐-More%20Repos-B347FF?style=for-the-badge&logo=github&labelColor=181717" alt="more repos" width="100%" />
+        <img src="https://img.shields.io/badge/⭐-More%20Repos%20→-B347FF?style=for-the-badge&logo=github&labelColor=181717" alt="more repos" width="100%" />
       </a>
-      <sub>Browse all 15+ public repositories on my profile</sub>
+      <sub>Explore all public repositories on my GitHub profile</sub>
     </td>
   </tr>
 </table>
-</details>
+</div>
 
 ---
 
@@ -237,23 +217,38 @@ Day to day, I work in **C, C++, Python and JavaScript** across the full stack �
 
 <br>
 
+<!-- Bulletproof stats: native GitHub badges (always work) + summary cards (rich visuals) -->
+<div align="center">
+  <img src="https://badges.pufler.dev/visits/krishty21/krishty21?style=for-the-badge&color=B347FF&label=Profile%20Visits" alt="visits" />
+  <img src="https://badges.pufler.dev/years/krishty21?style=for-the-badge&color=8B5CF6&label=Years%20on%20GitHub" alt="years" />
+  <img src="https://badges.pufler.dev/commits/monthly/krishty21?style=for-the-badge&color=B347FF&label=Commits%20This%20Month" alt="commits" />
+  <img src="https://badges.pufler.dev/repos/krishty21?style=for-the-badge&color=8B5CF6&label=Public%20Repos" alt="repos" />
+  <img src="https://badges.pufler.dev/stars/krishty21?style=for-the-badge&color=B347FF&label=Total%20Stars" alt="stars" />
+  <img src="https://badges.pufler.dev/forks/krishty21?style=for-the-badge&color=8B5CF6&label=Total%20Forks" alt="forks" />
+</div>
+
+<br>
+
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=krishty21&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&title_color=B347FF&icon_color=8B5CF6&text_color=C8C8C8&bg_color=1A1A2E&rank_icon=github&cache_seconds=86400" height="180" alt="stats graph" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krishty21&theme=dracula" height="180" alt="profile details" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishty21&layout=compact&hide_border=true&theme=dracula&langs_count=8&title_color=B347FF&text_color=C8C8C8&bg_color=1A1A2E&card_width=320&hide=HTML,CSS,Makefile,Dockerfile&cache_seconds=86400" height="180" alt="languages graph" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=krishty21&theme=dracula&hide=HTML,CSS,Makefile,Dockerfile" height="180" alt="repos per language" />
       </td>
       <td align="center">
-        <img src="https://streak-stats.demolab.com/?user=krishty21&theme=dracula&hide_border=true&background=1A1A2E&ring=B347FF&fire=8B5CF6&currStreakLabel=B347FF&sideNums=C8C8C8&sideLabels=C8C8C8&dates=C8C8C8" height="180" alt="streak stats" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=krishty21&theme=dracula&hide=HTML,CSS,Makefile,Dockerfile" height="180" alt="most commit language" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="3">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=krishty21&theme=dracula&utcOffset=5.5" height="180" alt="productive time" />
       </td>
     </tr>
   </table>
 </div>
-
-> _If any card above fails to render, it's a Vercel rate-limit on the public instance — refresh the page after a minute, or self-host [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) for guaranteed uptime._
 
 ---
 
@@ -312,16 +307,13 @@ Day to day, I work in **C, C++, Python and JavaScript** across the full stack �
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=krishty21&label=Profile%20Visitors&color=B347FF&style=for-the-badge&labelColor=181717" alt="visitor badge" />
+  <img src="https://count.getloli.com/get/@krishty21?theme=rule34" alt="profile visitors" />
+  <br>
   <img src="https://img.shields.io/github/followers/krishty21?label=Followers&style=for-the-badge&color=B347FF&labelColor=181717" alt="followers" />
   <img src="https://img.shields.io/github/stars/krishty21?label=Total%20Stars&style=for-the-badge&color=8B5CF6&labelColor=181717" alt="stars" />
 </div>
 
 <br>
-
-<div align="center">
-  <sub><i>Last updated · 2026 · Built with ❤️ on Arch Linux + Hyprland</i></sub>
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:B347FF,50:8B5CF6,100:6D28D9&text=Thanks%20for%20scrolling%20%F0%9F%91%8B&fontSize=20&fontColor=FFFFFF&animation=fadeIn" width="100%" />
