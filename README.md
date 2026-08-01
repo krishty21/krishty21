@@ -15,7 +15,7 @@
   <a href="https://github.com/krishty21" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="github logo" />
   </a>
-  <a href="https://instagram.com/aizen_1111" target="_blank">
+  <a href="https://www.instagram.com/krishtyboy" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="instagram logo" />
   </a>
   <img src="https://img.shields.io/static/v1?message=Open+to+Internships+%26+Full-Time&label=&color=B347FF&logo=ghost&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="open to work" />
@@ -307,8 +307,8 @@ Day to day, I work in **C, C++, Python and JavaScript** across the full stack â€
 <br>
 
 <div align="center">
-  <img src="https://count.getloli.com/get/@krishty21?theme=rule34" alt="profile visitors" />
-  <br>
+  <img src="https://visitor-badge.laobi.pt/badge?page_id=krishty21.krishty21&color=B347FF" alt="visitor badge" />
+  <br><br>
   <img src="https://img.shields.io/github/followers/krishty21?label=Followers&style=for-the-badge&color=B347FF&labelColor=181717" alt="followers" />
   <img src="https://img.shields.io/github/stars/krishty21?label=Total%20Stars&style=for-the-badge&color=8B5CF6&labelColor=181717" alt="stars" />
 </div>
