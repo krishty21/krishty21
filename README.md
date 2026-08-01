@@ -307,10 +307,10 @@ Day to day, I work in **C, C++, Python and JavaScript** across the full stack â€
 <br>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.pt/badge?page_id=krishty21.krishty21&color=B347FF" alt="visitor badge" />
+  <img src="https://komarev.com/ghpvc/?username=krishty21&style=plastic&color=B347FF&label=PROFILE+VIEWS" alt="visitor badge" />
   <br><br>
-  <img src="https://img.shields.io/github/followers/krishty21?label=Followers&style=for-the-badge&color=B347FF&labelColor=181717" alt="followers" />
-  <img src="https://img.shields.io/github/stars/krishty21?label=Total%20Stars&style=for-the-badge&color=8B5CF6&labelColor=181717" alt="stars" />
+  <img src="https://img.shields.io/github/followers/krishty21?label=Followers&style=plastic&color=B347FF&labelColor=181717" alt="followers" />
+  <img src="https://img.shields.io/github/stars/krishty21?label=Total%20Stars&style=plastic&color=8B5CF6&labelColor=181717" alt="stars" />
 </div>
 
 <br>
