@@ -136,7 +136,7 @@ Day to day, I work in **C, C++, Python and JavaScript** across the full stack �
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/krishty21/PersonalPortifolio">
+      <a href="https://github.com/krishty21/PersonalPortifilio">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishty21&repo=PersonalPortifolio&theme=dracula&hide_border=true&title_color=B347FF&icon_color=8B5CF6" alt="Personal Portfolio" width="100%" />
       </a>
       <sub>🚀 React · Three.js · Tailwind · Vite — Hyprland-shell-inspired 3D dev portfolio with interactive canvas & customizable themes</sub>
@@ -170,7 +170,7 @@ Day to day, I work in **C, C++, Python and JavaScript** across the full stack �
       <sub>🎮 Browser-based Minesweeper-style game with custom engine logic & responsive UI</sub>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/krishty21/Virtual-Time-Capsule">
+      <a href="https://github.com/krishty21/Bury-A-Capsule">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishty21&repo=Virtual-Time-Capsule&theme=dracula&hide_border=true&title_color=B347FF&icon_color=8B5CF6" alt="Virtual Time Capsule" width="100%" />
       </a>
       <sub>⏳ Time-locked digital capsule platform for scheduled memory & message delivery</sub>
@@ -178,18 +178,32 @@ Day to day, I work in **C, C++, Python and JavaScript** across the full stack �
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/krishty21/NIT-AP-Timetable">
+      <a href="https://github.com/krishty21/TimeTable">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishty21&repo=NIT-AP-Timetable&theme=dracula&hide_border=true&title_color=B347FF&icon_color=8B5CF6" alt="NIT AP Timetable" width="100%" />
       </a>
       <sub>📅 Dynamic timetable system with auto-generated schedules for NIT AP</sub>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/krishty21/Face-Recognition-Java">
+      <a href="https://github.com/krishty21/FacialRecogniton">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishty21&repo=Face-Recognition-Java&theme=dracula&hide_border=true&title_color=B347FF&icon_color=8B5CF6" alt="Face Recognition" width="100%" />
       </a>
       <sub>👁️ Java · OpenCV — biometric face detection & automated attendance tracking pipeline</sub>
     </td>
   </tr>
+  <tr>
+  <td align="center" width="50%">
+    <a href="https://github.com">
+      <img src="https://vercel.app" alt="NIT AP Timetable" width="100%" />
+    </a>
+    <sub>📅 Dynamic timetable system with auto-generated schedules for NIT AP</sub>
+  </td>
+  <td align="center" width="50%">
+    <a href="https://github.com/krishty21/Aether-Tides">
+      <img src="https://vercel.app" alt="Aether Tides" width="100%" />
+    </a>
+    <sub>🌊 Interactive web experience with real-time fluid dynamics, Goals, Sea Adventure and ambient audio. Explore the sea with your crew and defeat the pirates and conqour the sea while you explore the islands in your adventure.</sub>
+  </td>
+</tr>
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/krishty21">
