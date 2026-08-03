@@ -25,7 +25,7 @@
 
 ---
 
-### 👨‍💻 **About Me**
+### **About Me**
 
 I'm a **CSE undergrad at NIT Andhra Pradesh** who likes to build at the seam between systems engineering and applied AI — encrypted payment backends, real-time computer-vision pipelines, geospatial safety routers, 3D web canvases. If it has a tricky architectural problem underneath, I'm probably already poking at it.
 
@@ -38,7 +38,7 @@ Day to day, I work in **C, C++, Python and JavaScript** across the full stack �
 
 ---
 
-### 🛠️ **Tech Stack**
+###  **Tech Stack**
 
 <div align="center">
   <table>
@@ -105,7 +105,7 @@ Day to day, I work in **C, C++, Python and JavaScript** across the full stack �
 
 ---
 
-### 💼 **Experience**
+### **Experience**
 
 <table>
   <tr>
@@ -130,18 +130,20 @@ Day to day, I work in **C, C++, Python and JavaScript** across the full stack �
 
 ---
 
-### 🎨 **Featured Projects**
+### **Featured Projects**
 
 <div align="center">
 <table>
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/krishty21/PersonalPortifilio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishty21&repo=PersonalPortifolio&theme=dracula&hide_border=true&title_color=B347FF&icon_color=8B5CF6" alt="Personal Portfolio" width="100%" />
       </a>
       <sub>🚀 React · Three.js · Tailwind · Vite — Hyprland-shell-inspired 3D dev portfolio with interactive canvas & customizable themes</sub>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/krishty21/VoidPay">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishty21&repo=VoidPay&theme=dracula&hide_border=true&title_color=B347FF&icon_color=8B5CF6" alt="VoidPay" width="100%" />
       </a>
       <sub>🔐 Node · Express · PostgreSQL · JWT · AES/RSA — encrypted payment rail with atomic ledger logging & role-based access</sub>
     </td>
@@ -149,11 +151,13 @@ Day to day, I work in **C, C++, Python and JavaScript** across the full stack �
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/krishty21/SafeRouteProject">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishty21&repo=SafeRouteProject&theme=dracula&hide_border=true&title_color=B347FF&icon_color=8B5CF6" alt="SafeRoute" width="100%" />
       </a>
       <sub>🗺️ Python · FastAPI · React · Mapbox GL — intelligent navigation scoring routes by safety, lighting & historical risk data</sub>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/krishty21/SecureChat-Project">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishty21&repo=SecureChat-Project&theme=dracula&hide_border=true&title_color=B347FF&icon_color=8B5CF6" alt="SecureChat" width="100%" />
       </a>
       <sub>💬 End-to-end encrypted real-time chat with cryptographic key exchange & secure WebSocket tunnels</sub>
     </td>
@@ -161,6 +165,7 @@ Day to day, I work in **C, C++, Python and JavaScript** across the full stack �
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/krishty21/MinesGame">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishty21&repo=MinesGame&theme=dracula&hide_border=true&title_color=B347FF&icon_color=8B5CF6" alt="Mines Game" width="100%" />
       </a>
       <sub>🎮 Browser-based Minesweeper-style game with custom engine logic & responsive UI</sub>
     </td>
@@ -174,11 +179,13 @@ Day to day, I work in **C, C++, Python and JavaScript** across the full stack �
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/krishty21/TimeTable">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishty21&repo=NIT-AP-Timetable&theme=dracula&hide_border=true&title_color=B347FF&icon_color=8B5CF6" alt="NIT AP Timetable" width="100%" />
       </a>
       <sub>📅 Dynamic timetable system with auto-generated schedules for NIT AP</sub>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/krishty21/FacialRecogniton">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishty21&repo=Face-Recognition-Java&theme=dracula&hide_border=true&title_color=B347FF&icon_color=8B5CF6" alt="Face Recognition" width="100%" />
       </a>
       <sub>👁️ Java · OpenCV — biometric face detection & automated attendance tracking pipeline</sub>
     </td>
@@ -186,11 +193,13 @@ Day to day, I work in **C, C++, Python and JavaScript** across the full stack �
   <tr>
   <td align="center" width="50%">
     <a href="https://github.com">
+      <img src="https://vercel.app" alt="NIT AP Timetable" width="100%" />
     </a>
     <sub>📅 Dynamic timetable system with auto-generated schedules for NIT AP</sub>
   </td>
   <td align="center" width="50%">
     <a href="https://github.com/krishty21/Aether-Tides">
+      <img src="https://vercel.app" alt="Aether Tides" width="100%" />
     </a>
     <sub>🌊 Interactive web experience with real-time fluid dynamics, Goals, Sea Adventure and ambient audio. Explore the sea with your crew and defeat the pirates and conqour the sea while you explore the islands in your adventure.</sub>
   </td>
@@ -208,7 +217,7 @@ Day to day, I work in **C, C++, Python and JavaScript** across the full stack �
 
 ---
 
-### 📊 **GitHub Analytics**
+### **GitHub Analytics**
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishty21&radius=16&theme=dracula&area=true&order=5&color=B347FF&line=B347FF&point=8B5CF6" height="280" alt="activity-graph" />
@@ -251,7 +260,7 @@ Day to day, I work in **C, C++, Python and JavaScript** across the full stack �
 
 ---
 
-### 🏅 **Certifications**
+### **Certifications**
 
 <div align="center">
   <table>
@@ -293,7 +302,7 @@ Day to day, I work in **C, C++, Python and JavaScript** across the full stack �
 
 ---
 
-### 👾 **Contribution Game**
+### **Contribution Game**
 
 <div align="center">
   <picture>
