@@ -192,12 +192,6 @@ Day to day, I work in **C, C++, Python and JavaScript** across the full stack �
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/krishty21/Spark-Squad">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishty21&repo=Spark-Squad&theme=dracula&hide_border=true&title_color=B347FF&icon_color=8B5CF6" alt="Spark Squad" width="100%" />
-      </a>
-      <sub>⚡ Collaborative team formation & hackathon squad-matching platform</sub>
-    </td>
-    <td align="center" width="50%">
       <a href="https://github.com/krishty21">
         <img src="https://img.shields.io/badge/⭐-More%20Repos%20→-B347FF?style=for-the-badge&logo=github&labelColor=181717" alt="more repos" width="100%" />
       </a>
